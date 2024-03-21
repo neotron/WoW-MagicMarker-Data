@@ -1,6 +1,6 @@
-## Interface: 100205
+## Interface: 100206
 ## Interface-BCC: 20502
-## Interface-Wrath: 30400
+## Interface-Wrath: 30403
 ## X-Curse-Project-ID: 14364
 ## X-Wago-ID: q96dvXGO
 ## Title: Magic Marker Data for Burning Crusade
